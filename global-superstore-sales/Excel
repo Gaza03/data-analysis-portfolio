@@ -1,0 +1,25 @@
+# Global Superstore Sales Dashboard
+
+## Overview
+This project analyzes sales performance using the Global Superstore dataset.
+The goal is to provide clear business insights through KPIs and visual dashboards.
+
+## Tools Used
+- Excel (PivotTables, charts, KPI reporting)
+
+## Key Metrics
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Profit by Product Category
+
+## Dashboard Preview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+## Insights
+- Technology is the most profitable category
+- Furniture generates the lowest profit
+- Overall profit margin is approximately 1%
+
+## Files
+- Global_Superstore_Sales_Dashboard.xlsx
