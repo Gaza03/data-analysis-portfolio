@@ -25,3 +25,11 @@ This project analyzes employee absenteeism records using SQL (SQLite) to uncover
 ## 
 - Built an Excel dashboard from the grouped CSV outputs
 - `dashboard.png`
+
+
+The dataset used in this project is publicly available from the UCI Machine Learning Repository:
+
+UCI Machine Learning Repository – Absenteeism at Work Dataset
+https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work
+
+The dataset contains approximately 740 employee absenteeism records with demographic, health, and workplace-related variables.
