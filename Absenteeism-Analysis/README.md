@@ -22,6 +22,6 @@ This project analyzes employee absenteeism records using SQL (SQLite) to uncover
 - `age_grouped.csv` — grouped age analysis (with counts)
 - `bmi_grouped.csv` — grouped BMI category analysis (with counts)
 
-## Next Steps
-- Build an Excel dashboard from the grouped CSV outputs
-- Add visuals (`dashboard.png`) to this repo
+## 
+- Built an Excel dashboard from the grouped CSV outputs
+- `dashboard.png`
